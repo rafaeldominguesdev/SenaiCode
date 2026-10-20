@@ -148,9 +148,13 @@ a{
 }
 
 .lista-tecnologias li {
+    display: inline-block;
+
+    margin-right: 8px;
+    margin-bottom: 8px;
+
     padding:  10px 14px;
     background-color: #fff;
-    display: inline-block;
     border: 1px solid #000;
     border-radius: 999px;
 }
