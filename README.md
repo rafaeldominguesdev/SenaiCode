@@ -15,7 +15,7 @@ Este repositório reúne todo o conteúdo prático desenvolvido ao longo do curs
 O conteúdo é organizado por **semestre**:
 
 ```bash
-AtividadeSENAI/
+SenaiCode/
 ├── 📁 1 semestre/     # Lógica de programação e Java (POO, Spring Boot)
 └── 📁 2 semestre/     # Desenvolvimento web (HTML e CSS)
 ```
