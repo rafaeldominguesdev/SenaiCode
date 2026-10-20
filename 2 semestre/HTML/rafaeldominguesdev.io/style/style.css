@@ -166,7 +166,11 @@ a{
 
     text-align: center;
     font-style: normal;
-    
 
+}
+
+.rodape a{
+    text-decoration: none;
+    
 }
 
