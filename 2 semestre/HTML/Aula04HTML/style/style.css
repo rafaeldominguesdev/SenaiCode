@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+
+}
+
+h1,
+h2,
+p,
+ul,
+li,
+a {
+    margin: 0;
+    padding: 0;
+    color: black;
+
+}
+
+.header{
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    min-height: 33vh;
+}
+
+.main{
+    background-color: blue;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    min-height: 33vh;
+}
+
+
+.footer{
+    background-color: red;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    min-height: 34vh;
+}
+
+
+#meu-nome {
+    font-weight: bold;
+    color: white;
+}
